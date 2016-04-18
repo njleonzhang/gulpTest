@@ -1,0 +1,11 @@
+.home p {
+  color: red;
+}
+.list p {
+  color: blue;
+}
+
+.list p span {
+  font-size: 16px;
+  height: 100px;
+}

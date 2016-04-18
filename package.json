@@ -1,0 +1,19 @@
+{
+  "name": "testgulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-concat": "^2.6.0",
+    "gulp-concat-css": "^2.2.0",
+    "gulp-filter": "^4.0.0",
+    "gulp-inject": "^4.0.0",
+    "gulp-sass": "^2.2.0",
+    "main-bower-files": "^2.11.1"
+  }
+}
